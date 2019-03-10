@@ -1,2 +1,2 @@
-# a$aphyton
+# a$apython
 to become rich
