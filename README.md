@@ -1,0 +1,2 @@
+# asaphyton
+to become rich
